@@ -1,5 +1,5 @@
 - Source mapping (Hammer++ btw) 🔨
-- I sometimes (try to) translate Source projects to Hungarian 🇭🇺
+- I sometimes (try to) translate Source projects to Hungarian 📜🇭🇺
 
 <!---
 C-Husky/C-Husky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
